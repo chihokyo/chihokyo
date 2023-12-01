@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Java, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://chihokyo.github.io/self-portfolio/](https://chihokyo.github.io/self-portfolio/)
+- 👨‍💻 All of my projects are available at [https://chihokyo.github.io/portfolio/](https://chihokyo.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://chihokyo.com](https://chihokyo.com)
 
 - 📫 How to reach me **info@chihokyo**
 
-- 📄 Know about my experiences [https://chihokyo.github.io/self-portfolio/](https://chihokyo.github.io/self-portfolio/)
+- 📄 Know about my experiences [https://chihokyo.github.io/portfolio/](https://chihokyo.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,13 +35,13 @@
 
 - 🌱 今独学している言語は **Java, TypeScript**
 
-- 👨‍💻 今まで参画プロジェクトについて [https://chihokyo.github.io/self-portfolio/](https://chihokyo.github.io/self-portfolio/)
+- 👨‍💻 今まで参画プロジェクトについて [https://chihokyo.github.io/portfolio/](https://chihokyo.github.io/portfolio/)
 
 - 📝自作のブログはこちら [https://chihokyo.com](https://chihokyo.com)
 
 - 📫 お問い合わせメールアドレス **info@chihokyo**
 
-- 📄 私のこともっと知りたい [https://chihokyo.github.io/self-portfolio/](https://chihokyo.github.io/self-portfolio/)
+- 📄 私のこともっと知りたい [https://chihokyo.github.io/portfolio/](https://chihokyo.github.io/portfolio/)
 
 <h3 align="left">ツイッター（発信少ない）:</h3>
 <p align="left">
